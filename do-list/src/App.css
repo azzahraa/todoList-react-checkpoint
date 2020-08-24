@@ -1,0 +1,9 @@
+button{
+  color:red;
+  opacity: 80%;
+  background-color: beige;
+}
+#root {
+  background-color: rgb(241, 215, 180);
+  background-size: 100%;
+}
